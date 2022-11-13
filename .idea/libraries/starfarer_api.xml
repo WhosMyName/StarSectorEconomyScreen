@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="starfarer.api">
+    <CLASSES>
+      <root url="jar://F:/Gmaes/Starsector/starsector-core/lwjgl_util.jar!/" />
+      <root url="jar://F:/Gmaes/Starsector/starsector-core/lwjgl.jar!/" />
+      <root url="jar://F:/Gmaes/Starsector/starsector-core/starfarer.api.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://fractalsoftworks.com/starfarer.api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Gmaes/Starsector/starsector-core/starfarer.api.zip!/" />
+    </SOURCES>
+  </library>
+</component>
